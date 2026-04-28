@@ -9,9 +9,9 @@
 - 🎓 B.Tech (AI & ML) Graduate
 - 🤖 Passionate about **AI, LLMs, and Generative AI Systems**
 - 🧠 Skilled in building **RAG pipelines, AI Agents & scalable AI apps**
-- ⚡ Strong in **Python, SQL, APIs & Vector Databases**
+- ⚡ Strong in **Python, SQL, APIs & Vector Databases, ML , DL, NLP**
 - 🌍 Based in India
-- 💼 Open to **AI/ML & GenAI Internships / Roles**
+- 💼 Open to **AI/ML & GenAI / Roles**
 
 ---
 
